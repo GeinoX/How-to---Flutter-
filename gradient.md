@@ -42,6 +42,8 @@ LinearGradient(
     start: [0.5, 0.8]
 )
 ```
-You should see this:
-![gradient image 2](images/gradient2.jpg)  
+You should see this:  
+
+<img src="images/gradient1.jpg" style="width:50%; height:50%;">
+  
 You notice the green colors extended a little to the bottom, thats because we extended its stop length, by default both colors are evenly districuted through out the gradient.
