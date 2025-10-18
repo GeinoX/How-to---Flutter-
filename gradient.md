@@ -31,7 +31,7 @@ LinearGradient(
 ```
 
 You should see this:  
-<img src="images/gradient1.jpg" style="width:200; height:400px;">
+<img src="images/gradient1.jpg" style="width:250; height:350px;">
 
 we also have **_stop_** that determines where each color starts and stops in the gradient line.
 
@@ -46,6 +46,6 @@ LinearGradient(
 
 You should see this:
 
-<img src="images/gradient2.jpg" style="width:200; height:400px;">
+<img src="images/gradient2.jpg" style="width:250; height:350px;">
   
 You notice the green colors extended a little to the bottom, thats because we extended its stop length, by default both colors are evenly districuted through out the gradient.
